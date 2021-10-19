@@ -1,0 +1,81 @@
+
+
+body {
+    
+    background: url('im.jpg');
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-attachment: fixed;
+}
+.köp{
+    font-size: 20px;
+ background: rgb(236, 233, 7);
+ padding: 3px 8px;
+ border-radius: 9px;
+}
+.köp:hover{
+    background: greenyellow;
+    
+    }
+
+.filter {
+ font-size: 20px;
+ background: rgb(241, 198, 2);
+ padding: 3px 8px;
+ position: fixed;
+ left: 1060px;
+ top: 9%;
+ font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+.filter:hover{
+background: greenyellow;
+
+}
+
+.titel{
+    padding:0px 50px 0px;
+     width: 120px;
+     border-radius: 10px;
+    background: rgba(38, 239, 253, 0.486);
+    position: fixed;
+    left: 1000px;
+    top: 20%;
+    color: blue;
+    font-family:cursive;
+}
+.varukorg{
+    top: 35%;
+    width: 200px;
+    padding: 10px 10px ;
+    background: rgba(152, 251, 152, 0.137);
+    position: fixed;
+    left: 1000px;
+    color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+}
+.total{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px 20px 0px;
+    font-size: 20px;
+    background: rgba(152, 251, 152, 0.137);
+    width: 120px;
+    position: fixed;
+    top: 14%;
+    left: 1050px;
+    color: greenyellow;
+    
+}
+.imput{
+    position: fixed;
+    left: 1000px;
+    top: 8%;
+    border-radius: 100%;
+   height: 20px;
+   padding: 10px 5px 10px;
+    
+}
+.container{
+    color: rgb(255, 255, 255);
+}
